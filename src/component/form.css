@@ -1,0 +1,41 @@
+.form {
+    text-align: center;
+    border: solid, 5px;
+    border-color: brown;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 9px;
+    background-color: rgba(139, 97, 229, 0.424);
+
+
+}
+
+.head {
+    margin-bottom: 5px;
+    margin-right: 290px;
+    font-size: x-large;
+}
+
+
+
+.btn {
+    border-radius: 5px;
+    border: solid;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    color: rgba(190, 62, 221, 0.768);
+}
+
+.btn:hover {
+    color: rgb(22, 134, 199);
+}
+
+.input {
+    width: 250px;
+    height: 20px;
+    border: 2px, solid;
+    border-color: blue;
+}
